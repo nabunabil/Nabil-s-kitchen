@@ -62,11 +62,19 @@ Nabil-s-kitchen/
 
 This project is open-source and available under the [MIT License](LICENSE).
 
+## 🙌 Want to Collaborate?
+
+If you have time and would like to contribute in a friendly, collaborative way, feel free to explore the project and get involved!
+
+📬 Contact me: [info@abnahid.com](mailto:info@abnahid.com)  
+🌐 Visit: [abnahid.com](https://abnahid.com)
+
 ---
 
 ## ❤️ Support
 
-If you like this project, please consider ⭐ **starring** the repo. It helps a lot!
+If you like this project, please consider ⭐ **starring** the repo — it really helps and means a lot!
+
 
 ---
 
