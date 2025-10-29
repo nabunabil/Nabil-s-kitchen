@@ -114,8 +114,34 @@
 
     </section>
 
-    <body>
-        <script>
-            
-        </script>
+    <!-- Chat Bot Widget -->
+    <div id="chatbot-container">
+        <div id="chat-button">
+            <span>💬</span>
+        </div>
+        <div id="chat-window" style="display: none;">
+            <div id="chat-header">
+                <h3>Nabil's Kitchen Assistant</h3>
+                <button id="close-chat">×</button>
+            </div>
+            <div id="chat-messages">
+                <div class="bot-message">
+                    <p>Hello! Welcome to Nabil's Kitchen! 🍝 How can I help you today?</p>
+                    <div class="quick-replies">
+                        <button class="quick-reply" data-message="menu">View Menu</button>
+                        <button class="quick-reply" data-message="hours">Opening Hours</button>
+                        <button class="quick-reply" data-message="location">Location</button>
+                        <button class="quick-reply" data-message="reservations">Reservations</button>
+                    </div>
+                </div>
+            </div>
+            <div id="chat-input-container">
+                <input type="text" id="chat-input" placeholder="Type your message...">
+                <button id="send-button">Send</button>
+            </div>
+        </div>
+    </div>
+
+    <script src="chatbot.js"></script>
+</body>
 </html>
